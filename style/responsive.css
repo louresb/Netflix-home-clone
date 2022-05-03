@@ -1,18 +1,64 @@
-@media screen and (max-width:700px){
+@media screen and (max-width: 750px){
     header .container{
     display: flex;
     flex-direction: column;
     }
 
+    .logo{
+        margin-bottom: 20px;
+    }
+
+    .titulo{
+        font-size: 30px;
+    }
+
+    .filme-principal .descricao{
+        display: none;
+    }
+
+    .botoes{
+        position: relative;
+        top: 60px;
+    }
+
+    .botao2{
+        margin-top: 10px;
+    }
+
     .botao{
         margin-top: 5px;
-        width: 300px;
+        width: 190px;
+        height: 60px;
+    }
+
+    .indicacao{
+        top:30px
     }
 
 }
 
-@media screen and (min-width:1000px){
+@media screen and (min-width: 1000px){
     .descricao{
-        width: 50%;
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 1250px){
+    .ferramentas{
+        display: none;
+        position: relative;
+        left: 100px;
+    }
+
+    header nav h3{
+        display: none;        
+    }
+
+    .titulo{
+        font-size: 25px;
+    }
+    
+    .footer-menu{
+        display: none;
     }
 }
