@@ -1,6 +1,6 @@
 # Netflix homepage recreation (RISOFLIX) 📽
 
-In this project I recreated the Netflix login page. Following the recommendation of the platform, I made the project with my own theme. I chose to use Brazilian humor classics in the composition because I decided to make the site in Portuguese and as a tribute to Fernanda Young and Paulo Gustavo, late brazilian artists.
+In this project I recreated the Netflix login page. Following the recommendation of the platform, I made the project with my own theme. I chose to use Brazilian humor classics in the composition because I decided to make the website in Portuguese and as a tribute to Fernanda Young and Paulo Gustavo, late brazilian artists.
 To structure the layout it was used Netflix as a reference, CSS3 techniques with containers and variables, position elements with Flexbox and JQuery plugins to make the carousel. 
 
 ### Changes:
